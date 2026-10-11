@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+*.war
+
+# Maven
+target/
+
+# IDEs
+.idea/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Variables y configuraciones locales
+.env
+application-local.properties
